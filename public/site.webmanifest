@@ -1,0 +1,12 @@
+{
+  "name": "NutriControl",
+  "short_name": "NutriControl",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "display": "standalone"
+}
